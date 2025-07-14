@@ -61,7 +61,6 @@ BankingApp/
 
 
 ## 👨‍🎓 Author
-Raphael Michael Akwetey
-💼 GitHub: @WTechbyRalph
+Raphael Michael Akwetey/[WTechbyRalph](https://github.com/WTechbyRalph)
 
 🎯 Project built as part of OOP coursework — demonstrating clean Java architecture and real-world banking simulation.
