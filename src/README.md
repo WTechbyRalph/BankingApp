@@ -41,23 +41,27 @@ This is a simple Java console-based banking system built using core **Object-Ori
 
 3. Compile the code:
    ```bash
-    javac -d ../bin *.java
+   javac -d ../bin *.java
 
 4. Run the application from the project root:
    ```bash
-  java -cp bin Main
-
-  BankingApp/
-├── bin/                   # Compiled .class files
-├── src/                   # Source code (.java files)
+   java -cp bin Main
+   
+## 🗂️ Folder Structure
+BankingApp/
+├── bin/                  # Compiled .class files
+├── src/                  # Java source files
 │   ├── Main.java
+│   ├── BankApp.java
 │   ├── Account.java
 │   ├── SavingsAccount.java
-│   ├── CurrentAccount.java
-│   └── BankApp.java
-└── README.md
+│   └── CurrentAccount.java
+├── README.md
+└── .gitignore
 
-📝 Author
-Developed by Raphael Michael Akwetey.
-Inspired by Java OOP coursework assignment.
-🔗 https://github.com/WTechbyRalph
+
+## 👨‍🎓 Author
+Raphael Michael Akwetey
+💼 GitHub: @WTechbyRalph
+
+🎯 Project built as part of OOP coursework — demonstrating clean Java architecture and real-world banking simulation.
